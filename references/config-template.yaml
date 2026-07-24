@@ -1,0 +1,21 @@
+# 项目配置文件
+# 此文件由 project-organization skill 自动生成和管理
+
+git:
+  enabled: false
+  auto_tag: true
+  tag_prefix: "v"
+  last_tag: ""
+
+github:
+  enabled: false
+  remote: "origin"
+  repository: ""
+  auto_push: false
+  auto_pull: true
+
+sync:
+  auto_sync: false
+  sync_interval: 3
+  last_sync: ""
+  pending_commits: []
