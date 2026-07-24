@@ -1,0 +1,8 @@
+# manifest.yaml — 项目组织技能元数据
+schema-version: 1
+license: MIT
+scope: cross-product
+version: "1.0"
+human-description: 项目文件组织与 AI 协作管理。当检测到工作目录中存在 PROJECT.md 时自动加载。管理 .proj/ 目录结构、文件分类归档、任务队列、待办事项、进度追踪、会话总结。
+required-skills: []
+required-products: []
